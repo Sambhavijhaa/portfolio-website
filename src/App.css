@@ -389,7 +389,6 @@ p {
     opacity: 0.15;
     filter: blur(1px);
   }
-}
 
  .nav {
     flex-direction: row;
