@@ -343,11 +343,11 @@ function App() {
 </div>
 
       <div className="buttons">
-        <button className="btn-secondary" onClick={() => window.open("YOUR_GITHUB_LINK")}>
+        <button className="btn-secondary" onClick={() => window.open("https://github.com/Sambhavijhaa/portfolio-website")}>
           GitHub
         </button>
 
-        <button className="btn-secondary" onClick={() => window.open("YOUR_LIVE_LINK")}>
+        <button className="btn-secondary" onClick={() => window.open("https://sambhavi-portfolio.vercel.app/")}>
           Live Site
         </button>
       </div>
